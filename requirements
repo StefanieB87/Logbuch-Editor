@@ -1,0 +1,5 @@
+streamlit==1.10.0
+PyMuPDF==1.19.6
+pymongo==3.12.1
+gridfs==1.0.0
+bson==0.5.10
